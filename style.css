@@ -64,7 +64,7 @@ nav a:hover {
     justify-content: center;
     align-items: center;
     padding: 0px 60px;
-    background-color: #ACF8AC;
+    background-color: #E6EDE6;
     position: relative;
 }
 
@@ -76,11 +76,11 @@ nav a:hover {
 .hero-text {
     position: absolute;
     right: 25%;
-    top: 50%;
+    top: 20%;
     transform: translateY(-50%);
     font-size: 30px;
     font-weight: 900;
-    color: #30916A;
+    color: #e6ede6;
     line-height: 1;
 }
 
