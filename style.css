@@ -55,7 +55,7 @@ nav a {
 }
 
 nav a:hover {
-    color: #3d5a4c;
+    color: #F6F6E2;
 }
 
 /* Hero Section */
@@ -64,7 +64,7 @@ nav a:hover {
     justify-content: center;
     align-items: center;
     padding: 0px 60px;
-    background-color: #f5f3ed;
+    background-color: #ACF8AC;
     position: relative;
 }
 
@@ -80,7 +80,7 @@ nav a:hover {
     transform: translateY(-50%);
     font-size: 30px;
     font-weight: 900;
-    color: #384538;
+    color: #30916A;
     line-height: 1;
 }
 
@@ -94,7 +94,7 @@ nav a:hover {
     text-align: center;
     font-size: 36px;
     margin-bottom: 30px;
-    color: #384538;
+    color: #297B8D;
     font-weight: 700;
 }
 
@@ -146,7 +146,7 @@ nav a:hover {
     content: "•";
     position: absolute;
     left: 0;
-    color: #3d5a4c;
+    color: #297B8D;
 }
 
 /* Project Section */
@@ -159,7 +159,7 @@ nav a:hover {
     text-align: center;
     font-size: 36px;
     margin-bottom: 60px;
-    color: #384538;
+    color: #297B8D;
     font-weight: 700;
 }
 
@@ -207,7 +207,7 @@ nav a:hover {
     text-align: center;
     font-size: 36px;
     margin-bottom: 30px;
-    color: #384538;
+    color: #297B8D;
     font-weight: 700;
     
 }
@@ -247,11 +247,11 @@ nav a:hover {
     content: "•";
     position: absolute;
     left: 0;
-    color: #3d5a4c;
+    color: #297B8D;
 }
 
 .contact-item a {
-    color: #3d5a4c;
+    color: #297B8D;
     transition: opacity 0.3s;
 }
 
@@ -261,7 +261,7 @@ nav a:hover {
 
 /* Footer */
 footer {
-    background-color: #3d5a4c;
+    background-color: #297B8D;
     color: rgba(255, 255, 255, 0.6);
     text-align: left;
     padding: 30px 60px;
